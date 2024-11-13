@@ -47,11 +47,11 @@ HackRF Jawbreaker marked the beginning of the project in 2012-2013, serving as t
 The HackRF One, introduced in 2013, became the main production version and continues to be manufactured today, featuring significant improvements over the Jawbreaker design and establishing itself as the standard model.
 
 **HackRF One + PortaPack H1**
-![alt text](<HACKRF JAWBREAKER (1772 x 935 mm) (2)-1.png>)
+![alt text](images/h1.png)
 The HackRF One with PortaPack H1 transformed the basic HackRF One by adding a display module that enabled standalone operation without a computer, featuring an LCD touchscreen interface and built-in battery support for portable use.
 
 **HackRF One + PortaPack H2**
-![alt text](<HACKRF JAWBREAKER (1772 x 935 mm) (3)-1.png>)
+![alt text](images/h2.png)
 The HackRF One with PortaPack H2 represents the latest evolution, building upon the H1's foundation with an improved display, enhanced interface, and more capable firmware to deliver a more refined user experience.
 
 ---
