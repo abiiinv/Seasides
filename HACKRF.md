@@ -1,6 +1,6 @@
 # Introduction to HackRF
 
-![alt text](hackrf_one_bg-1.jpg)
+![alt text](images/hackrf.jpeg)
 
 The HackRF is a half-duplex sdr transceiver designed for RF investigation. It has an operating frequency of 1Mhz - 6Ghz with a 8-bit quadrature sample rate. The hackrf has a maximun transmition power of 30mW this makes it suitable for transmittion at close ranges but it prone to emission of sperodic emissions which could compromise nearby equipment if used with amplification equipment. The HackRF is compatable with GNU-Radio allowing it be calibrated to work with multiple other equipment and protocols. One of the main disadvatages of the HackRF is its subpar receive perfomance . In our case we added a Temprature Compensated Crystal Oscillator (TCXO) to the HackRF to increase the receive performance to minimise frequency drift while receiving for long periods from time.
 
@@ -14,7 +14,7 @@ With the advancement in internet technology in the last 30 years , a new market 
 
 It all began in June 2012 with Michael Ossmann’s post ‘Introducing HackRF’ where he presented his idea for a cheap, open source Software Defined Radio (SDR) to spread the adoption of SDR in hacker and research communities. The associated website is [greatscottgadgets](https://greatscottgadgets.com/hackrf/) .
 
-![alt text](15-1.jpg)
+![alt text](gsg,jpg)
 
 **The Origins: HackRF Jawbreaker**
 
@@ -43,7 +43,7 @@ The platform continued to evolve with additions like the PortaPack, an add-on di
 HackRF Jawbreaker marked the beginning of the project in 2012-2013, serving as the initial prototype with a limited production run of approximately 500 units that proved the concept's viability.
 
 **HackRF One**
-![alt text](images/h1.png)
+![alt text](images/hackrfone.png)
 The HackRF One, introduced in 2013, became the main production version and continues to be manufactured today, featuring significant improvements over the Jawbreaker design and establishing itself as the standard model.
 
 **HackRF One + PortaPack H1**
