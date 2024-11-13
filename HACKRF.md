@@ -43,7 +43,7 @@ The platform continued to evolve with additions like the PortaPack, an add-on di
 HackRF Jawbreaker marked the beginning of the project in 2012-2013, serving as the initial prototype with a limited production run of approximately 500 units that proved the concept's viability.
 
 **HackRF One**
-![alt text](<HACKRF JAWBREAKER (1772 x 935 mm) (1)-1.png>)
+![alt text](images/h1.png)
 The HackRF One, introduced in 2013, became the main production version and continues to be manufactured today, featuring significant improvements over the Jawbreaker design and establishing itself as the standard model.
 
 **HackRF One + PortaPack H1**
