@@ -14,7 +14,7 @@ With the advancement in internet technology in the last 30 years , a new market 
 
 It all began in June 2012 with Michael Ossmann’s post ‘Introducing HackRF’ where he presented his idea for a cheap, open source Software Defined Radio (SDR) to spread the adoption of SDR in hacker and research communities. The associated website is [greatscottgadgets](https://greatscottgadgets.com/hackrf/) .
 
-![alt text](gsg,jpg)
+![alt text](gsg.jpg)
 
 **The Origins: HackRF Jawbreaker**
 
