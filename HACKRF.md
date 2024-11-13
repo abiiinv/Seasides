@@ -39,7 +39,7 @@ The platform continued to evolve with additions like the PortaPack, an add-on di
 ## Types of HackRF
 
 **HackRF Jawbreaker**
-![alt text](images/JAWBRAKER.png)
+![alt text](images/JAWBREAKER.png)
 HackRF Jawbreaker marked the beginning of the project in 2012-2013, serving as the initial prototype with a limited production run of approximately 500 units that proved the concept's viability.
 
 **HackRF One**
