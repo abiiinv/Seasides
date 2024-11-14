@@ -16,20 +16,20 @@ It all began in June 2012 with Michael Ossmann’s post ‘Introducing HackRF’
 
 ![alt text](images/gsg.jpg)
 
-**The Origins: HackRF Jawbreaker**
+### **The Origins: HackRF Jawbreaker**
 
 A first prototype of a HackRF board is called ‘**HackRF Jawbreaker**’ that was presented at the GRCon12 in late September 2012.
 The initial prototype, known as HackRF Jawbreaker, was planned for distribution at ToorCon 14 in late 2012. When manufacturing delays hit, attendees at ToorCon 14 and GRCon12 received beta codes instead. By early 2013, beta manufacturing began, and in May 2013, over 500 Jawbreaker units were produced, with final shipments completing in June after extensive testing.
 
-**The Breakthrough: Kickstarter Success**
+### **The Breakthrough: Kickstarter Success**
 
 2013 marked a pivotal moment when Ossmann launched a [Kickstarter campaign](https://www.kickstarter.com/projects/mossmann/hackrf-an-open-source-sdr-platform/faqs) for HackRF One. The campaign resonated deeply with the community, demonstrating the massive demand for accessible SDR technology. This crowdfunding success not only validated the concept but also helped establish HackRF as a community-driven project.
 
-**HackRF One: Technical Innovation**
+### **HackRF One: Technical Innovation**
 
 HackRF One emerged as a half-duplex transceiver operating from 1 MHz to 6 GHz, featuring an open-source hardware design and USB connectivity. With its 20 million samples per second capability, users could transmit or receive signals across most common wireless protocols through a single USB connection.
 
-**Evolution and Ecosystem**
+### **Evolution and Ecosystem**
 
 The platform continued to evolve with additions like the PortaPack, an add-on display and interface module that transformed HackRF One into a standalone device. This expansion helped create a rich ecosystem of tools and applications, further cementing HackRF's position in the SDR community.
 
