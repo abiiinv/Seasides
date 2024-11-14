@@ -1,6 +1,6 @@
 # Introduction to HackRF
 
-![alt text](images/hackrf.jpeg)
+![alt text](images/hackrf_one_bg.jpg)
 
 The HackRF is a half-duplex sdr transceiver designed for RF investigation. It has an operating frequency of 1Mhz - 6Ghz with a 8-bit quadrature sample rate. The hackrf has a maximun transmition power of 30mW this makes it suitable for transmittion at close ranges but it prone to emission of sperodic emissions which could compromise nearby equipment if used with amplification equipment. The HackRF is compatable with GNU-Radio allowing it be calibrated to work with multiple other equipment and protocols. One of the main disadvatages of the HackRF is its subpar receive perfomance . In our case we added a Temprature Compensated Crystal Oscillator (TCXO) to the HackRF to increase the receive performance to minimise frequency drift while receiving for long periods from time.
 
