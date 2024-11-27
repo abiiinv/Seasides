@@ -104,3 +104,24 @@ Replay attacks are a type of cyberattack where an attacker intercepts and record
      3. Replay: At a later time, the attacker retransmits the data to the target system, impersonating the original sender.
 
      4. Execution: The target system processes the replayed data, believing it to be genuine, granting access or executing actions.
+
+### **GSM HACKING**
+#### What is GSM
+GSM (Global System for Mobile Communications) is a digital mobile network that is widely used around the world. It operates across four different frequency bands: 850 MHz, 900 MHz, 1800 MHz, and 1900 MHz. GSM uses a combination of Frequency Division Multiple Access (FDMA) and Time Division Multiple Access (TDMA) to efficiently utilize these frequency bands.
+
+GSM sniffing is a method used to intercept and decode the communication between mobile devices and cellular networks.
+
+#### IMSI Catcher
+An IMSI Catcher, also known as an International Mobile Subscriber Identity catcher, is a device that intercepts mobile phone communications and tracks the location data of mobile phone users. It operates by posing as a fake mobile phone tower, creating a connection between the target mobile phone and the service provider’s actual towers, making it a man-in-the-middle (MITM) attack.While 3G or 4G wireless cellular networks require mutual authentication from both the handset and the network, sophisticated IMSI catchers may have the capability to downgrade 3G and LTE to non-LTE network services. These services do not require mutual authentication, making them vulnerable to interception.
+
+### **Spoofing GPS Coordinates**
+
+GPS (Global Positioning System) has become an integral part of modern life. Whether we are using smartphones for navigation, tracking devices, or even autonomous systems, GPS coordinates provide a crucial service for determining precise locations. However, like all technologies, GPS is not foolproof and can be manipulated. One advanced technique used to deceive GPS receivers is GPS Spoofing. This technique tricks the receiver into believing it's at a false location.
+
+#### What is GPS Spoofing?
+GPS spoofing involves the transmission of fake GPS signals to deceive GPS receivers into believing they are at a different location than they actually are. Unlike GPS jamming, which blocks GPS signals entirely, spoofing works by overriding real signals with fabricated ones. This technique can fool a GPS receiver into calculating a false location or time.
+
+### Side channel attack
+
+Capturing RF signals can give out information about what the device is currently doing, and computer monitors are no exception for this issue. Using a software called TempestSDR, it is possible to recreate a black and white live image of what a screen is displaying thanks to the RF signals that the HDMI cable is leaking. 
+
