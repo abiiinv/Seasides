@@ -84,7 +84,8 @@ OR
 
 ```
 kal -g 40  -s GSM900
-```![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GRm6VjGmJdrBj0Zng2wijA.jpeg)
+```
+![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GRm6VjGmJdrBj0Zng2wijA.jpeg)
 
 Gr-gsm
 ======
