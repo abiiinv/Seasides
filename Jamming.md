@@ -40,5 +40,6 @@ osmocom_siggen_nogui -a hackrf -f 900e6 --sweep -x 890e6 -y 910e6 -v
 
 This command would sweep the signal from 890 MHz to 910 MHz, which would interfere with the GSM signal at 900 MHz.
 
-Limitations
+#### Limitations
+
 The primary limitation of jamming signals using a HackRF One is the strength of the signal. The HackRF One is a relatively low-power device, so it can only jam signals that are close to the receiver. Additionally, the HackRF One is susceptible to interference from other radio signals, so it may not be effective in noisy environments. It is important to note that jamming signals is illegal.
