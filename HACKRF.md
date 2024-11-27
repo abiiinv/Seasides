@@ -56,6 +56,15 @@ The HackRF One with PortaPack H2 represents the latest evolution, building upon 
 
 ---
 
+
+### RF Scanning Softwares
+
+1. ![SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)
+2. ![hackrf-spectrum-analyzer](https://github.com/pavsa/hackrf-spectrum-analyzer)
+3. ![qSpectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)
+
+
+
 ## Attacks using HackRF
 
 ### **Jamming**
