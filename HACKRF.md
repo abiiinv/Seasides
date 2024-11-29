@@ -95,15 +95,15 @@ Radio Frequency (RF) jamming refers to the intentional interference of RF commun
 ### **Reply attacks**
 Replay attacks are a type of cyberattack where an attacker intercepts and records a communication or data transmission and replays it later to deceive the receiving system. These attacks exploit the lack of proper authentication or session management in protocols. The replayed transmission appears legitimate to the receiver, allowing unauthorized access or actions.
 
-#### **How Reply attack works:**
+### How Replay Attack Works:
 
-     1. Interception: The attacker captures a communication or signal (e.g., a car key fob unlocking signal, login credentials, or authentication tokens).
+1. **Interception**: The attacker captures a communication or signal, such as a car key fob unlocking signal, login credentials, or authentication tokens.
 
-     2. Storage: The attacker stores the captured data for future use.
+2. **Storage**: The attacker stores the captured data for future use.
 
-     3. Replay: At a later time, the attacker retransmits the data to the target system, impersonating the original sender.
+3. **Replay**: At a later time, the attacker retransmits the captured data to the target system, impersonating the original sender.
 
-     4. Execution: The target system processes the replayed data, believing it to be genuine, granting access or executing actions.
+4. **Execution**: The target system processes the replayed data, believing it to be genuine, granting access or executing actions.
 
 ### **GSM HACKING**
 #### What is GSM
